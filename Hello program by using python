@@ -1,0 +1,3 @@
+print("HELLO WORLD")
+name = "AYUSH SURYANSHI\n"
+print(name)
